@@ -1,0 +1,15 @@
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\bin\Debug\net5.0\CurrencyExchange.BLL.deps.json
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\bin\Debug\net5.0\CurrencyExchange.BLL.dll
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\bin\Debug\net5.0\ref\CurrencyExchange.BLL.dll
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\bin\Debug\net5.0\CurrencyExchange.BLL.pdb
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\bin\Debug\net5.0\CurrencyExchange.DAL.dll
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\bin\Debug\net5.0\CurrencyExchange.DAL.pdb
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\obj\Debug\net5.0\CurrencyExchange.BLL.csproj.AssemblyReference.cache
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\obj\Debug\net5.0\CurrencyExchange.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\obj\Debug\net5.0\CurrencyExchange.BLL.AssemblyInfoInputs.cache
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\obj\Debug\net5.0\CurrencyExchange.BLL.AssemblyInfo.cs
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\obj\Debug\net5.0\CurrencyExchange.BLL.csproj.CoreCompileInputs.cache
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\obj\Debug\net5.0\CurrencyExchange.BLL.csproj.CopyComplete
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\obj\Debug\net5.0\CurrencyExchange.BLL.dll
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\obj\Debug\net5.0\ref\CurrencyExchange.BLL.dll
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.BLL\obj\Debug\net5.0\CurrencyExchange.BLL.pdb

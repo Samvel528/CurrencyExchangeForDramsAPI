@@ -1,0 +1,12 @@
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\bin\Debug\net5.0\CurrencyExchange.DAL.deps.json
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\bin\Debug\net5.0\CurrencyExchange.DAL.dll
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\bin\Debug\net5.0\ref\CurrencyExchange.DAL.dll
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\bin\Debug\net5.0\CurrencyExchange.DAL.pdb
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\obj\Debug\net5.0\CurrencyExchange.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\obj\Debug\net5.0\CurrencyExchange.DAL.AssemblyInfoInputs.cache
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\obj\Debug\net5.0\CurrencyExchange.DAL.AssemblyInfo.cs
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\obj\Debug\net5.0\CurrencyExchange.DAL.csproj.CoreCompileInputs.cache
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\obj\Debug\net5.0\CurrencyExchange.DAL.dll
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\obj\Debug\net5.0\ref\CurrencyExchange.DAL.dll
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\obj\Debug\net5.0\CurrencyExchange.DAL.pdb
+C:\Users\samve\source\repos\CurrencyExchangeForDramsAPI\CurrencyExchange.DAL\obj\Debug\net5.0\CurrencyExchange.DAL.csproj.AssemblyReference.cache
